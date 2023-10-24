@@ -120,7 +120,7 @@ void menu()
     printf(">>> CLICK > 6 < TO SEARCH STUDENT.\n\n");
     printf(">>> CLICK > 7 < TO CALL STUDENT.\n\n");
 
-    printf("                                                  BACK-> 0 \n\n");
+  
 
 
 
